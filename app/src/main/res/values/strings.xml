@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplicativoTcc</string>
+    <string name="valor1">Entrar</string>
+    <string name="valor2">PRODUTOS</string>
+    <string name="valor3">RELATÓRIO</string>
+    <string name="valor5">ALTERAR</string>
+    <string name="valor6">DESATIVAR</string>
+    <string name="valor7">USAR</string>
+    <string name="valor4"></string>
+    <string name="valor8">VOLTAR</string>
+</resources>
