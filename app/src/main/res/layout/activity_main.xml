@@ -23,12 +23,12 @@
         android:id="@+id/btn_Entrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#FFFFFF"
-        android:backgroundTint="#F65F5F"
+        android:background="@color/black"
+        android:backgroundTint="@color/purple_200"
         android:shadowColor="#FFFFFF"
         android:text="@string/valor1"
-        android:textColorHighlight="#FF3020"
-        android:textColorLink="#D61616"
+        android:textColorHighlight="@color/teal_200"
+        android:textColorLink="@color/teal_200"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -38,4 +38,5 @@
         app:rippleColor="@android:color/holo_red_dark"
         app:strokeColor="#F80000"
         tools:ignore="UsingOnClickInXml" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
